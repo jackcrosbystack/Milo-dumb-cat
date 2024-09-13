@@ -1,0 +1,15 @@
+- what we see when looking at a website, we see the rendered version of that website
+--> when we refresh, we send a request to youtube servers asking for the latest version of this homepage 
+--> it sends to you. you can look at the page source and see what the webpage actually looks like
+---> it will be HTML, CSS, and JS 
+
+- the browser will take that code and make the website looks like what it looks like
+
+-HTML is responsible for just being the skeleton of the webpage 
+-CSS is responsible for adding style. puts makeup, change size, rotate
+-->HTML: nouns
+-->CSS: adjetives 
+
+-JS is responsible for adding interacrivity, adding life to the webpage 
+--> when you go to youtube search bar and start typing, those lines where it tries to complete what you are searching for, that's JS's doing 
+-->JS: how things behave
